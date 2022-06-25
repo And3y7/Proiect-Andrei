@@ -1,0 +1,42 @@
+
+html,
+body {
+    height: 100%;
+    font-size : 1rem;
+    font-family: 'Koulen', cursive;
+}
+
+
+.gradient {
+    background: rgb(251,176,63);
+background-image: radial-gradient(circle, rgba(251,176,63,1) 13%, rgba(252,70,107,1) 100%);
+}
+
+.page-header {
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: white;
+
+}
+
+.feature {
+    color: white;
+
+
+}
+
+.blue{
+    background-color: #ff5500;
+}
+
+.red{
+    background-color: #ff5500;
+}
+
+.meniu{
+    max-width:100%;
+}
+
+.companies{
+    background-color: #ff7000;
+}
